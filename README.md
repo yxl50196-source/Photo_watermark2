@@ -34,12 +34,10 @@
 ## 🚀 下载与运行
 
 ### Windows
-1. 前往 [Releases](https://github.com/你的仓库地址/releases) 下载最新的 `Watermarker.exe`
+1. 前往 [Releases](https://github.com/yxl50196-source/Photo_watermark2/releases) 下载最新的 `Watermarker.exe`
 2. 双击运行即可（无需安装 Python 环境）
 
-### macOS
-1. 前往 [Releases](https://github.com/你的仓库地址/releases) 下载最新的 `Watermarker.app` 或可执行文件
-2. 首次运行时若提示阻止，请到 **系统偏好设置 → 安全性与隐私** 允许打开
+
 
 ---
 
