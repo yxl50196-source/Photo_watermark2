@@ -1,7 +1,7 @@
 # 🖼️ 图片水印工具 (Watermarker)
 
 一个简单易用的图片水印工具，支持文本水印和图片水印，提供九宫格布局和拖拽定位，支持批量处理和水印模板管理。  
-本项目基于 **Python + PyQt5 + Pillow** 开发，并提供 Windows 与 macOS 可执行文件。
+本项目基于 **Python + PyQt5 + Pillow** 开发，并提供 Windows 可执行文件。
 
 ---
 
